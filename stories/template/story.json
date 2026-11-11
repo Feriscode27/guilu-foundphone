@@ -1,0 +1,1076 @@
+{
+  "scriptVersion": 1,
+  "id": "zhang-guiyuan-iphone",
+  "title": "张桂源的 iPhone",
+  "description": "一部以张桂源日常为灵感的粉丝向互动手机。手机内聊天、备忘录与生活片段均为虚构同人创作，不代表真实私人记录。",
+  "revision": 4,
+  "phone": {
+    "owner": "张桂源",
+    "date": "2026-11-12",
+    "time": "09:41",
+    "battery": 94,
+    "network": "5G",
+    "wallpaper": "apple-wwdc26"
+  },
+  "installedApps": [
+    "appstore",
+    {
+      "id": "wechat",
+      "name": "微信",
+      "installed": true,
+      "visible": true,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "douyin",
+      "name": "抖音",
+      "installed": true,
+      "visible": true,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    "phone",
+    "messages",
+    "contacts",
+    "photos",
+    {
+      "id": "camera",
+      "name": "相机",
+      "installed": true,
+      "visible": true,
+      "dock": true,
+      "folder": "",
+      "icon": ""
+    },
+    "safari",
+    "notes",
+    "calendar",
+    "mail",
+    "clock",
+    "reminders",
+    "files",
+    "music",
+    "maps",
+    "weather",
+    "wallet",
+    "health",
+    "find",
+    "calculator",
+    "settings",
+    "qq",
+    "weibo",
+    "redbook",
+    "bilibili",
+    "alipay",
+    "taobao",
+    "netease",
+    "delivery",
+    "forum",
+    "whatsapp",
+    "instagram",
+    "tiktok",
+    "twitter",
+    "telegram",
+    "discord",
+    "youtube",
+    "line",
+    "snapchat",
+    "facebook",
+    "messenger",
+    "reddit",
+    "spotify",
+    "netflix",
+    "pinterest",
+    "threads",
+    "kakao"
+  ],
+  "contacts": [
+    {
+      "id": "wang-lujie",
+      "name": "王橹杰",
+      "phone": "",
+      "avatar": "",
+      "bio": "熟悉的人面前有点大小姐气场，嘴上不一定让步，行动上却很自然。"
+    },
+    {
+      "id": "yu-yuhan",
+      "name": "余宇涵",
+      "phone": "",
+      "avatar": "",
+      "bio": "朋友。"
+    },
+    {
+      "id": "yang-bowen",
+      "name": "杨博文",
+      "phone": "",
+      "avatar": "",
+      "bio": "朋友。"
+    },
+    {
+      "id": "chen-junming",
+      "name": "陈俊明",
+      "phone": "",
+      "avatar": "",
+      "bio": "朋友。"
+    },
+    {
+      "id": "chen-junming2",
+      "name": "陈浚铭",
+      "phone": "",
+      "avatar": "",
+      "bio": "朋友。"
+    },
+    {
+      "id": "guan-junchen",
+      "name": "官俊臣",
+      "phone": "",
+      "avatar": "",
+      "bio": "四代练习生朋友。"
+    },
+    {
+      "id": "zhang-guiyuan",
+      "name": "张桂源",
+      "phone": "",
+      "avatar": "",
+      "bio": "四代练习生朋友。"
+    },
+    {
+      "id": "zhang-hanrui",
+      "name": "张函瑞",
+      "phone": "",
+      "avatar": "",
+      "bio": "四代练习生朋友。"
+    },
+    {
+      "id": "wang-shuoran",
+      "name": "王烁然",
+      "phone": "",
+      "avatar": "",
+      "bio": "四代练习生朋友。"
+    },
+    {
+      "id": "zuo-qifan",
+      "name": "左奇函",
+      "phone": "",
+      "avatar": "",
+      "bio": "四代练习生朋友。"
+    },
+    {
+      "id": "chen-yiheng",
+      "name": "陈奕恒",
+      "phone": "",
+      "avatar": "",
+      "bio": "四代练习生朋友。"
+    },
+    {
+      "id": "yang-hanbo",
+      "name": "杨涵博",
+      "phone": "",
+      "avatar": "",
+      "bio": "四代练习生朋友。"
+    },
+    {
+      "id": "zhang-yiran",
+      "name": "张奕然",
+      "phone": "",
+      "avatar": "",
+      "bio": "四代练习生朋友。"
+    },
+    {
+      "id": "nie-weichen",
+      "name": "聂玮辰",
+      "phone": "",
+      "avatar": "",
+      "bio": "四代练习生朋友。"
+    },
+    {
+      "id": "chen-sihan",
+      "name": "陈思罕",
+      "phone": "",
+      "avatar": "",
+      "bio": "四代练习生朋友。"
+    },
+    {
+      "id": "wei-zichen",
+      "name": "魏子宸",
+      "phone": "",
+      "avatar": "",
+      "bio": "四代练习生朋友。"
+    },
+    {
+      "id": "li-yudong",
+      "name": "李煜东",
+      "phone": "",
+      "avatar": "",
+      "bio": "四代练习生朋友。"
+    }
+  ],
+  "chats": [
+    {
+      "id": "chat-wang-lujie",
+      "app": "wechat",
+      "title": "王橹杰",
+      "participants": [
+        "owner",
+        "wang-lujie"
+      ],
+      "messages": [
+        {
+          "id": "wl-001",
+          "title": "",
+          "body": "你到哪了？",
+          "senderId": "wang-lujie",
+          "time": "昨天 18:42",
+          "kind": "text"
+        },
+        {
+          "id": "wl-002",
+          "title": "",
+          "body": "楼下，刚打完球。",
+          "senderId": "owner",
+          "time": "昨天 18:43",
+          "kind": "text"
+        },
+        {
+          "id": "wl-003",
+          "title": "",
+          "body": "那你顺便帮我带杯喝的。",
+          "senderId": "wang-lujie",
+          "time": "昨天 18:43",
+          "kind": "text"
+        },
+        {
+          "id": "wl-004",
+          "title": "",
+          "body": "你倒是挺会安排。",
+          "senderId": "owner",
+          "time": "昨天 18:44",
+          "kind": "text"
+        },
+        {
+          "id": "wl-005",
+          "title": "",
+          "body": "怎么，不愿意？",
+          "senderId": "wang-lujie",
+          "time": "昨天 18:44",
+          "kind": "text"
+        },
+        {
+          "id": "wl-006",
+          "title": "",
+          "body": "没说不愿意。喝什么？",
+          "senderId": "owner",
+          "time": "昨天 18:45",
+          "kind": "text"
+        },
+        {
+          "id": "wl-007",
+          "title": "",
+          "body": "你知道的。少冰。",
+          "senderId": "wang-lujie",
+          "time": "昨天 18:45",
+          "kind": "text"
+        },
+        {
+          "id": "wl-008",
+          "title": "",
+          "body": "知道了，大小姐。",
+          "senderId": "owner",
+          "time": "昨天 18:46",
+          "kind": "text"
+        },
+        {
+          "id": "wl-009",
+          "title": "",
+          "body": "[动画表情]",
+          "senderId": "wang-lujie",
+          "time": "昨天 18:46",
+          "kind": "text"
+        },
+        {
+          "id": "wl-010",
+          "title": "",
+          "body": "到了，下来拿。",
+          "senderId": "owner",
+          "time": "昨天 19:02",
+          "kind": "text"
+        },
+        {
+          "id": "wl-011",
+          "title": "",
+          "body": "你上来。东西有点多。",
+          "senderId": "wang-lujie",
+          "time": "昨天 19:03",
+          "kind": "text"
+        },
+        {
+          "id": "wl-012",
+          "title": "",
+          "body": "……你是真不客气。",
+          "senderId": "owner",
+          "time": "昨天 19:03",
+          "kind": "text"
+        },
+        {
+          "id": "wl-013",
+          "title": "",
+          "body": "熟人之间客气什么。",
+          "senderId": "wang-lujie",
+          "time": "昨天 19:04",
+          "kind": "text"
+        }
+      ]
+    },
+    {
+      "id": "chat-friends",
+      "app": "wechat",
+      "title": "今天也要打球",
+      "participants": [
+        "owner",
+        "yu-yuhan",
+        "yang-bowen"
+      ],
+      "messages": [
+        {
+          "id": "friends-001",
+          "title": "",
+          "body": "晚上有空没？",
+          "senderId": "yu-yuhan",
+          "time": "08:52",
+          "kind": "text"
+        },
+        {
+          "id": "friends-002",
+          "title": "",
+          "body": "看情况，怎么了？",
+          "senderId": "owner",
+          "time": "08:53",
+          "kind": "text"
+        },
+        {
+          "id": "friends-003",
+          "title": "",
+          "body": "约球啊，差你一个。",
+          "senderId": "yu-yuhan",
+          "time": "08:53",
+          "kind": "text"
+        },
+        {
+          "id": "friends-004",
+          "title": "",
+          "body": "我问问。",
+          "senderId": "owner",
+          "time": "08:54",
+          "kind": "text"
+        },
+        {
+          "id": "friends-005",
+          "title": "",
+          "body": "别问了，来就行。",
+          "senderId": "yang-bowen",
+          "time": "08:55",
+          "kind": "text"
+        },
+        {
+          "id": "friends-006",
+          "title": "",
+          "body": "你俩先把场地订了。",
+          "senderId": "owner",
+          "time": "08:56",
+          "kind": "text"
+        }
+      ]
+    },
+    {
+      "id": "chat-four-one",
+      "app": "wechat",
+      "title": "四一",
+      "participants": [
+        "zhang-guiyuan",
+        "zhang-hanrui",
+        "wang-lujie",
+        "zuo-qifan",
+        "chen-yiheng",
+        "yang-bowen",
+        "chen-sihan",
+        "chen-junming2"
+      ],
+      "messages": [
+        {
+          "id": "four1-01",
+          "title": "",
+          "body": "今晚谁去打球？",
+          "senderId": "chen-yiheng",
+          "time": "19:16",
+          "kind": "text"
+        },
+        {
+          "id": "four1-02",
+          "title": "",
+          "body": "你先说场地订了没。",
+          "senderId": "chen-yiheng",
+          "time": "19:16",
+          "kind": "text"
+        },
+        {
+          "id": "four1-03",
+          "title": "",
+          "body": "别催，正在问。",
+          "senderId": "owner",
+          "time": "19:17",
+          "kind": "text"
+        },
+        {
+          "id": "four1-04",
+          "title": "",
+          "body": "张桂源每次都说正在问。",
+          "senderId": "zuo-qifan",
+          "time": "19:17",
+          "kind": "text"
+        },
+        {
+          "id": "four1-05",
+          "title": "",
+          "body": "那你来订。",
+          "senderId": "owner",
+          "time": "19:18",
+          "kind": "text"
+        },
+        {
+          "id": "four1-06",
+          "title": "",
+          "body": "哈哈哈哈哈哈",
+          "senderId": "chen-junming2",
+          "time": "19:18",
+          "kind": "text"
+        },
+        {
+          "id": "four1-07",
+          "title": "",
+          "body": "王橹杰呢？来不来？",
+          "senderId": "zhang-hanrui",
+          "time": "19:19",
+          "kind": "text"
+        },
+        {
+          "id": "four1-08",
+          "title": "",
+          "body": "看某人请不请喝的。",
+          "senderId": "wang-lujie",
+          "time": "19:19",
+          "kind": "text"
+        },
+        {
+          "id": "four1-09",
+          "title": "",
+          "body": "怎么又cue我。",
+          "senderId": "owner",
+          "time": "19:20",
+          "kind": "text"
+        },
+        {
+          "id": "four1-10",
+          "title": "",
+          "body": "你俩能不能先把球约明白。",
+          "senderId": "yang-bowen",
+          "time": "19:20",
+          "kind": "text"
+        },
+        {
+          "id": "four1-11",
+          "title": "",
+          "body": "我都行，别太晚。",
+          "senderId": "chen-sihan",
+          "time": "19:21",
+          "kind": "text"
+        },
+        {
+          "id": "four1-12",
+          "title": "",
+          "body": "收到，今天争取不拖堂。",
+          "senderId": "owner",
+          "time": "19:21",
+          "kind": "text"
+        }
+      ]
+    },
+    {
+      "id": "chat-teen-night",
+      "app": "wechat",
+      "title": "未成年定时熬夜",
+      "participants": [
+        "guan-junchen",
+        "zhang-guiyuan",
+        "zhang-hanrui",
+        "wang-lujie",
+        "wang-shuoran",
+        "zuo-qifan",
+        "chen-yiheng",
+        "yang-bowen",
+        "yang-hanbo",
+        "zhang-yiran",
+        "nie-weichen",
+        "chen-sihan",
+        "wei-zichen",
+        "li-yudong",
+        "chen-junming2"
+      ],
+      "messages": [
+        {
+          "id": "night-01",
+          "title": "",
+          "body": "有人睡了吗？",
+          "senderId": "guan-junchen",
+          "time": "23:08",
+          "kind": "text"
+        },
+        {
+          "id": "night-02",
+          "title": "",
+          "body": "你觉得呢，这个群名不是摆设吗。",
+          "senderId": "zuo-qifan",
+          "time": "23:08",
+          "kind": "text"
+        },
+        {
+          "id": "night-03",
+          "title": "",
+          "body": "我刚准备睡。",
+          "senderId": "wang-shuoran",
+          "time": "23:09",
+          "kind": "text"
+        },
+        {
+          "id": "night-04",
+          "title": "",
+          "body": "那你怎么还在群里说话。",
+          "senderId": "zhang-hanrui",
+          "time": "23:09",
+          "kind": "text"
+        },
+        {
+          "id": "night-05",
+          "title": "",
+          "body": "哈哈哈哈哈哈哈哈",
+          "senderId": "chen-junming2",
+          "time": "23:09",
+          "kind": "text"
+        },
+        {
+          "id": "night-06",
+          "title": "",
+          "body": "明天训练别迟到。",
+          "senderId": "yang-bowen",
+          "time": "23:10",
+          "kind": "text"
+        },
+        {
+          "id": "night-07",
+          "title": "",
+          "body": "这句话应该发给张桂源。",
+          "senderId": "nie-weichen",
+          "time": "23:10",
+          "kind": "text"
+        },
+        {
+          "id": "night-08",
+          "title": "",
+          "body": "怎么又是我？",
+          "senderId": "owner",
+          "time": "23:10",
+          "kind": "text"
+        },
+        {
+          "id": "night-09",
+          "title": "",
+          "body": "因为你上次说五分钟结果半小时。",
+          "senderId": "wang-lujie",
+          "time": "23:11",
+          "kind": "text"
+        },
+        {
+          "id": "night-10",
+          "title": "",
+          "body": "你记得还挺清楚。",
+          "senderId": "owner",
+          "time": "23:11",
+          "kind": "text"
+        },
+        {
+          "id": "night-11",
+          "title": "",
+          "body": "群里谁没记住啊。",
+          "senderId": "chen-yiheng",
+          "time": "23:11",
+          "kind": "text"
+        },
+        {
+          "id": "night-12",
+          "title": "",
+          "body": "我宣布今晚十分钟后全员下线。",
+          "senderId": "li-yudong",
+          "time": "23:12",
+          "kind": "text"
+        },
+        {
+          "id": "night-13",
+          "title": "",
+          "body": "支持，截图为证。",
+          "senderId": "wei-zichen",
+          "time": "23:12",
+          "kind": "text"
+        },
+        {
+          "id": "night-14",
+          "title": "",
+          "body": "先把表情包发完。",
+          "senderId": "yang-hanbo",
+          "time": "23:12",
+          "kind": "text"
+        },
+        {
+          "id": "night-15",
+          "title": "",
+          "body": "你们这叫准备睡觉？",
+          "senderId": "zhang-yiran",
+          "time": "23:13",
+          "kind": "text"
+        },
+        {
+          "id": "night-16",
+          "title": "",
+          "body": "最后一张！",
+          "senderId": "wang-shuoran",
+          "time": "23:13",
+          "kind": "text"
+        },
+        {
+          "id": "night-17",
+          "title": "",
+          "body": "王橹杰你也别熬。",
+          "senderId": "owner",
+          "time": "23:14",
+          "kind": "text"
+        },
+        {
+          "id": "night-18",
+          "title": "",
+          "body": "知道啦，你也是。",
+          "senderId": "wang-lujie",
+          "time": "23:14",
+          "kind": "text"
+        }
+      ]
+    }
+  ],
+  "content": {
+    "phone": [
+      {
+        "id": "phone-call-log",
+        "title": "最近通话",
+        "body": "王橹杰｜未接来电\n王橹杰｜通话 02:16\n余宇涵｜通话 00:48",
+        "time": "昨天"
+      }
+    ],
+    "photos": [
+      {
+        "id": "photo-basketball",
+        "title": "球场边",
+        "body": "傍晚的球场，篮筐、球鞋，还有没来得及收起来的外套。",
+        "time": "昨天 18:17",
+        "meta": {
+          "album": "最近项目",
+          "caption": "打完再走。"
+        }
+      },
+      {
+        "id": "photo-drink",
+        "title": "两杯饮料",
+        "body": "一杯少冰，一杯正常冰。拍完照才想起来吸管还没插。",
+        "time": "昨天 19:08",
+        "meta": {
+          "album": "最近项目",
+          "caption": "顺手拍的。"
+        }
+      },
+      {
+        "id": "photo-cat",
+        "title": "猫猫日常",
+        "body": "猫趴在沙发边，尾巴刚好挡住了镜头。",
+        "time": "11月10日",
+        "meta": {
+          "album": "生活"
+        }
+      },
+      {
+        "id": "photo-blur",
+        "title": "没对上焦的一张",
+        "body": "画面有点糊，但能看出来旁边有人在笑。",
+        "time": "11月09日",
+        "meta": {
+          "album": "最近项目",
+          "caption": "废片也先留着。"
+        }
+      },
+      {
+        "id": "photo-knit-hat",
+        "title": "黑色毛线帽",
+        "body": "张桂源黑色毛线帽、黑色穿搭的个人照片素材待补入。",
+        "time": "最近",
+        "meta": {
+          "album": "人物照片",
+          "caption": "黑色毛线帽那张。"
+        }
+      },
+      {
+        "id": "photo-purple-earphones",
+        "title": "紫色灯光",
+        "body": "紫色灯光下戴着耳机的个人照片素材待补入。",
+        "time": "最近",
+        "meta": {
+          "album": "人物照片",
+          "caption": "耳机和紫色灯光。"
+        }
+      },
+      {
+        "id": "photo-dog-burst",
+        "title": "和小狗的连拍",
+        "body": "与小狗互动的连拍照片素材待补入。",
+        "time": "最近",
+        "meta": {
+          "album": "生活",
+          "caption": "这组连拍先留着。"
+        }
+      },
+      {
+        "id": "photo-yiyisan",
+        "title": "幺幺三",
+        "body": "幺幺三单独照片素材待补入。",
+        "time": "最近",
+        "meta": {
+          "album": "人物照片",
+          "caption": "单独存的一张。"
+        }
+      },
+      {
+        "id": "photo-grey-hoodie-1",
+        "title": "浅灰拉链卫衣",
+        "body": "浅灰拉链卫衣个人照片素材待补入（1）。",
+        "time": "最近",
+        "meta": {
+          "album": "人物照片"
+        }
+      },
+      {
+        "id": "photo-grey-hoodie-2",
+        "title": "浅灰拉链卫衣（另一张）",
+        "body": "浅灰拉链卫衣个人照片素材待补入（2）。",
+        "time": "最近",
+        "meta": {
+          "album": "人物照片"
+        }
+      }
+    ],
+    "notes": [
+      {
+        "id": "note-todo",
+        "title": "今天要做的事",
+        "body": "□ 训练\n□ 回几条消息\n□ 把衣服收了\n□ 记得给王橹杰带少冰\n\n最后一条被单独圈出来了。",
+        "time": "今天 09:12"
+      },
+      {
+        "id": "note-basketball",
+        "title": "球场备忘",
+        "body": "下次记得带：\n- 护腕\n- 水\n- 备用球衣\n\n还有：别和余宇涵说只打一小时。",
+        "time": "11月10日"
+      },
+      {
+        "id": "note-unsent",
+        "title": "没发出去的话",
+        "body": "有些话当面说也没什么。\n只是每次到了嘴边，又觉得没必要特意讲出来。\n\n算了，先存着。",
+        "time": "11月08日",
+        "folder": "草稿"
+      },
+      {
+        "id": "note-wlj-01",
+        "title": "王橹杰使用说明（非正式）",
+        "body": "1. 喝的记得少冰。\\n2. 熟人面前很自然，想让人帮忙的时候一点也不客气。\\n3. 嘴上会反问，实际上已经把事情安排好了。\\n4. 分享歌之后会记得问有没有听。\\n\\n备注：以上仅供本人记忆，不接受本人以外人员审阅。",
+        "time": "11月11日"
+      },
+      {
+        "id": "note-wlj-02",
+        "title": "一些小习惯",
+        "body": "- 喜欢的东西会直接说，不太绕弯。\\n- 有时候一句“你上来”就能把人叫过去。\\n- 不用每次都问要不要帮忙，熟悉之后自然一点就好。\\n- 少冰这件事不能忘。",
+        "time": "11月10日"
+      },
+      {
+        "id": "note-wlj-03",
+        "title": "下次见面记得",
+        "body": "□ 把他说想听的歌听完\\n□ 问问最近练习累不累\\n□ 记得带少冰\\n□ 别又只顾着开玩笑\\n\\n最后一条：有空就多待一会儿。",
+        "time": "11月09日"
+      },
+      {
+        "id": "note-wlj-04",
+        "title": "没必要告诉他的事",
+        "body": "今天看到一个东西，第一反应是他应该会喜欢。\\n已经习惯把一些小事先记下来，等见面的时候再讲。\\n\\n也没什么特别的，就是想到了。",
+        "time": "11月08日",
+        "folder": "草稿"
+      },
+      {
+        "id": "note-wlj-05",
+        "title": "聊天备忘",
+        "body": "他说听完那首歌要告诉他。\\n不能只回一个“好听”，至少要认真听完。\\n\\n还有，下一次不要再叫大小姐叫得那么顺口。",
+        "time": "11月07日"
+      },
+      {
+        "id": "note-wlj-06",
+        "title": "一些约定",
+        "body": "- 有空一起去吃东西。\\n- 球打完别急着走。\\n- 分享过来的歌要听。\\n- 看到好玩的东西可以第一时间发给对方。",
+        "time": "11月06日"
+      }
+    ],
+    "calendar": [],
+    "music": [
+      {
+        "id": "music-playlist",
+        "title": "最近循环",
+        "body": "训练路上听的歌单。\n有几首已经循环很多遍了。",
+        "time": "最近"
+      },
+      {
+        "id": "music-shared",
+        "title": "有人分享的歌",
+        "body": "王橹杰分享了一首歌。\n备注：听完告诉我。",
+        "time": "昨天"
+      }
+    ],
+    "contacts": [
+      {
+        "id": "contact-wang",
+        "title": "王橹杰",
+        "body": "备注：熟人。少冰。偶尔很会使唤人。",
+        "time": ""
+      },
+      {
+        "id": "contact-yu",
+        "title": "余宇涵",
+        "body": "备注：球友。约球消息出现频率很高。",
+        "time": ""
+      }
+    ],
+    "douyin": [
+      {
+        "id": "douyin-draft",
+        "title": "未发布草稿",
+        "body": "一段训练后随手录的视频。\n还没想好配什么音乐。",
+        "time": "昨天",
+        "folder": "草稿"
+      }
+    ],
+    "safari": [
+      {
+        "id": "safari-search",
+        "title": "最近搜索",
+        "body": "篮球训练计划\n附近球场\n少冰饮品推荐",
+        "time": "最近"
+      }
+    ],
+    "reminders": [
+      {
+        "id": "reminder-drink",
+        "title": "带一杯少冰",
+        "body": "别忘了。有人会记得你忘没忘。",
+        "time": "今天"
+      }
+    ],
+    "appstore": [
+      {
+        "id": "appstore-welcome",
+        "title": "欢迎使用",
+        "body": "这是一部被故事填满的手机。试着打开微信、相册和备忘录，看看日常里藏着什么。",
+        "time": ""
+      }
+    ],
+    "wechat": [
+      {
+        "id": "moment-01",
+        "title": "朋友圈",
+        "body": "训练结束，今天算是完成任务了。",
+        "sender": "张桂源",
+        "time": "今天 20:18",
+        "kind": "post",
+        "folder": "朋友圈",
+        "likes": 12,
+        "comments": [
+          "余宇涵：明天继续。",
+          "杨博文：球场见。",
+          "王橹杰：先吃饭。"
+        ]
+      },
+      {
+        "id": "moment-02",
+        "title": "朋友圈",
+        "body": "今天的光线还不错。",
+        "sender": "王橹杰",
+        "time": "今天 19:46",
+        "kind": "post",
+        "folder": "朋友圈",
+        "likes": 18,
+        "comments": [
+          "张桂源：照片拍得不错。",
+          "左奇函：确实。",
+          "张函瑞：有人点评得很认真。"
+        ]
+      },
+      {
+        "id": "moment-03",
+        "title": "朋友圈",
+        "body": "谁把我的水拿走了？",
+        "sender": "余宇涵",
+        "time": "今天 18:52",
+        "kind": "post",
+        "folder": "朋友圈",
+        "likes": 9,
+        "comments": [
+          "张桂源：不知道，真的。",
+          "杨博文：你手上那个是什么。"
+        ]
+      },
+      {
+        "id": "moment-04",
+        "title": "朋友圈",
+        "body": "今天又被抓拍了。",
+        "sender": "杨博文",
+        "time": "今天 17:30",
+        "kind": "post",
+        "folder": "朋友圈",
+        "likes": 15,
+        "comments": [
+          "陈奕恒：抓得挺好。",
+          "张桂源：发原图。"
+        ]
+      },
+      {
+        "id": "moment-05",
+        "title": "朋友圈",
+        "body": "下次吃饭别再临时改地点。",
+        "sender": "张函瑞",
+        "time": "今天 16:12",
+        "kind": "post",
+        "folder": "朋友圈",
+        "likes": 7,
+        "comments": [
+          "王烁然：支持。",
+          "陈思罕：我已经到原地点了。"
+        ]
+      },
+      {
+        "id": "moment-06",
+        "title": "朋友圈",
+        "body": "这杯少冰还可以。",
+        "sender": "王橹杰",
+        "time": "昨天 21:06",
+        "kind": "post",
+        "folder": "朋友圈",
+        "likes": 21,
+        "comments": [
+          "张桂源：下次还买这个？",
+          "王橹杰：看表现。",
+          "陈浚铭：你们在说什么暗号。"
+        ]
+      },
+      {
+        "id": "moment-07",
+        "title": "朋友圈",
+        "body": "今天的训练视频先存一下。",
+        "sender": "左奇函",
+        "time": "昨天 20:42",
+        "kind": "post",
+        "folder": "朋友圈",
+        "likes": 11,
+        "comments": [
+          "张桂源：最后那个动作不错。",
+          "官俊臣：再来一遍。"
+        ]
+      },
+      {
+        "id": "moment-08",
+        "title": "朋友圈",
+        "body": "深夜不要点开群聊。",
+        "sender": "陈奕恒",
+        "time": "昨天 23:17",
+        "kind": "post",
+        "folder": "朋友圈",
+        "likes": 14,
+        "comments": [
+          "聂玮辰：已经看到了。",
+          "魏子宸：表情包太多了。"
+        ]
+      },
+      {
+        "id": "moment-09",
+        "title": "朋友圈",
+        "body": "有人说要早睡。",
+        "sender": "陈浚铭",
+        "time": "昨天 23:22",
+        "kind": "post",
+        "folder": "朋友圈",
+        "likes": 10,
+        "comments": [
+          "张桂源：说的就是你们。",
+          "王橹杰：你也没睡。"
+        ]
+      },
+      {
+        "id": "moment-10",
+        "title": "朋友圈",
+        "body": "随手拍，勿问地点。",
+        "sender": "张桂源",
+        "time": "11月10日",
+        "kind": "post",
+        "folder": "朋友圈",
+        "likes": 16,
+        "comments": [
+          "王橹杰：背景我见过。",
+          "张桂源：你记性挺好。",
+          "余宇涵：我是不是不该在这里。"
+        ]
+      },
+      {
+        "id": "moment-11",
+        "title": "朋友圈",
+        "body": "今天终于把歌听完了。",
+        "sender": "张桂源",
+        "time": "11月09日",
+        "kind": "post",
+        "folder": "朋友圈",
+        "likes": 13,
+        "comments": [
+          "王橹杰：感想呢？",
+          "张桂源：当面说。",
+          "张函瑞：哦——"
+        ]
+      },
+      {
+        "id": "moment-12",
+        "title": "朋友圈",
+        "body": "合照怎么总有人闭眼。",
+        "sender": "王烁然",
+        "time": "11月08日",
+        "kind": "post",
+        "folder": "朋友圈",
+        "likes": 8,
+        "comments": [
+          "杨涵博：不是我。",
+          "张奕然：我有证据。"
+        ]
+      }
+    ]
+  },
+  "variables": {},
+  "events": [],
+  "tests": []
+}
